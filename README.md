@@ -1,8 +1,6 @@
 # superSpan
 
-![Status](https://img.shields.io/badge/status-active-success)
 ![Language](https://img.shields.io/badge/language-Kotlin-7F52FF)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
 
