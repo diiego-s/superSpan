@@ -107,19 +107,6 @@ Please ensure your code:
 - Passes all existing tests
 - Adds new tests for new functionality
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-## Support
-
-For support and questions:
-
-- 📧 Open an [Issue](https://github.com/diiego-s/superSpan/issues)
-- 💬 Start a [Discussion](https://github.com/diiego-s/superSpan/discussions)
-- 🐛 Report bugs using the [Bug Report Template](https://github.com/diiego-s/superSpan/issues/new?template=bug_report.md)
-
----
 
 **Last Updated:** September 16, 2024
 
